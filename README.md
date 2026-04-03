@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="right" src="" alt="keyboard" width="400px""/>
+  <img align="right" src="keyboard.gif" alt="keyboard" width="400px""/>
 </div>
 
 ---
