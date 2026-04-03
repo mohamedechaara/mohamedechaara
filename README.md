@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+  <img align="right" src="" alt="keyboard" width="400px""/>
 </div>
 
 ---
@@ -56,12 +56,13 @@
 </p>
 
 ---
-
+<div align="center">
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedechaara&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohamedechaara&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=mohamedechaara&theme=tokyonight)
+</div>
 
 ---
 
