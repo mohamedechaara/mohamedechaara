@@ -4,9 +4,6 @@
 
 <div align="center">
   <p>
-  <img align="right" src="keyboard.gif" alt="keyboard" width="100%""/>   
-  </p>
-  <p>
     Hi! I'm a web development student passionate about creating efficient, modern, and user-focused web applications. I enjoy turning ideas into real projects and continuously improving my skills through practice and learning new technologies.
   </p>
   <h1></h1>
