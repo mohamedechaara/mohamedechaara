@@ -43,7 +43,7 @@ Don’t hesitate to get in touch or browse through my profiles.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://gitlab.com/YOUR_USERNAME">
+<a href="https://gitlab.com/mohamedechaara">
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </a>
 </div>
